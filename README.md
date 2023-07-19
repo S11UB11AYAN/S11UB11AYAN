@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhayan Bagchi</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionately+exploring+website+design;Linux+Ricing;Tech-Enthusiast;📚+Boundary+Pusher;Love+to+learn+new+tech..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionately+exploring+website+design;Linux+Ricing;Tech-Enthusiast;📚+Boundary+Pusher;Love+to+learn+new+tech..<3;Distro+hopper"></a>
 </p>
 <img align="right" width="400" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47xayz6qhzwo0mwphttazrjx811n0h93wjo2c4kdhx&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
