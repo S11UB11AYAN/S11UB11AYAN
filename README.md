@@ -67,8 +67,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s11ub11ayan&show_icons=true&locale=en&layout=compact" alt="s11ub11ayan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s11ub11ayan&show_icons=true&locale=en" alt="s11ub11ayan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s11ub11ayan&" alt="s11ub11ayan" /></p>
