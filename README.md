@@ -11,7 +11,6 @@
 - 📫 How to reach me **shubhayanbagchi30@gmail.com**
 
 - ⚡ Fun fact **I am a nerdy and lazy individual who finds joy in watching anime and thoroughly enjoys the art of customizing my Linux desktop environment.**
-- <a href="blog"> hi </a>
 
 
 <h3 align="left">🔴 Connect with me here 👇🏻</h3>
