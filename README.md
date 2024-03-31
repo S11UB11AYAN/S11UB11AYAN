@@ -70,6 +70,7 @@
     <img src="https://img.shields.io/badge/Task_Dodger-4CAF50?style=for-the-badge&logo=shady&logoColor=white" alt="Task Dodger">
     <img src="https://img.shields.io/badge/Error_Creator-17A4BA?style=for-the-badge&logo=oops&logoColor=white" alt="Error Creator">
   </p>
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="300" height="300" alt="Funny GIF">
 </div>
 
 <br>
@@ -79,6 +80,5 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="300" height="300" alt="Funny GIF">
 </div>
 <br>
