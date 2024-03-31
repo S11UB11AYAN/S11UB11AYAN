@@ -74,9 +74,8 @@
 </div>
 
 <br>
-<div align="center">
+<div align="center;" style="display:flex; justify-content: space-between">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=S11UB11AYAN&theme=dark" alt="GitHub Streak" /></a>
-<h3>😉 Programming Joke :</h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 
