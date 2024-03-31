@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>🚀 About Me 🚀</h3>
-  <p>I'm on an exciting journey exploring various technologies including HTML5, CSS3, ReactJs, JavaScript, MongoDB, ExpressJS, and NextJS. I'm passionate about learning and always striving to expand my knowledge. Let's connect and collaborate on exciting projects!</p>
+  <h6>I'm on an exciting journey exploring various technologies including HTML5, CSS3, ReactJs, JavaScript, MongoDB, ExpressJS, and NextJS. I'm passionate about learning and always striving to expand my knowledge. Let's connect and collaborate on exciting projects!</h6>
 </div>
 
 <div align="center">
@@ -72,12 +72,3 @@
   </p>
   <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="300" height="300" alt="Funny GIF">
 </div>
-
-<br>
-<div align="center;" style="display:flex; justify-content: space-between">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=S11UB11AYAN&theme=dark" alt="GitHub Streak" /></a>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-
-</div>
-<br>
