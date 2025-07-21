@@ -6,20 +6,23 @@
 
 ---
 
-### 🔥 Currently on my desk
-- 💻 **Using**: `Linux Mint Cinnamon`, `VLC`, `VS Code`, `Neovim`, `Firefox (BetterFox)`, `Chrome`, `Postman`, `MongoDB Compass`, `Picard`
-- ⚙️ **Tinkered with**: Every major Linux distro! (Distro-hopper 🐧)
+### 🔥 On My Desk Right Now
+
+- 💻 **Daily Tools**: Linux Mint (Cinnamon), VLC, VS Code, Neovim, Firefox (BetterFox), Chrome, Postman, MongoDB Compass, Picard  
+- 🐧 **Distro-Hopped** through most major Linux distros, settled on Mint because "it just works"  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Mint-informational?style=flat&logo=linuxmint&logoColor=white&color=2C2E3E" />
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser-Firefox-ff7139?style=flat&logo=firefox-browser&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Firefox-ff7139?style=flat&logo=firefox-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Languages I've worked with
+### 🧠 Languages I Use
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,47 +34,58 @@
 ---
 
 ### 🚀 Tech Stack
-- **Frontend**: React, Tailwind, Framer Motion  
+
+- **Frontend**: React, TailwindCSS, Framer Motion  
 - **Backend**: Node.js, Express, Flask  
 - **Database**: MongoDB  
 - **Auth**: JWT  
-- **Tools**: Postman, Compass, Git, VSCode  
+- **Tools**: Git, Postman, MongoDB Compass, VS Code
 
-> ⚡ Used in: **Yoober** (Uber Clone) & **Strike Through** ✨
+> 🛠️ Used in: **Yoober (Uber Clone)** and **Strike Through (Task App)**
 
 ---
 
-### 📚 Books I’ve read
-| Non-fiction | Fiction | Currently Reading |
-|-------------|---------|-------------------|
-| Deep Work | Dune | Vagabond (Manga) |
-| Shoe Dog | Cuckoo’s Calling | |
-| Subtle Art... | Kite Runner | |
-| Atomic Habits | Thousand Splendid Suns | |
-| Everything is F*cked | Poppy War | |
-| Can't Hurt Me | Hitchhiker’s Guide... | |
-| The Courage to be Disliked | War & Peace | |
-| Man's Search for Meaning | | |
+### 📌 Pinned Projects (suggest pinning these on your GitHub)
+
+- 🚕 **Yoober** – Full-stack ride-sharing clone  
+- ✅ **Strike Through** – Minimal productivity app  
+- 🤖 **Vagdevi** – AI Chatbot powered by Gemini + Flask  
+
+---
+
+### 📚 Books I've Read
+
+| 🧠 Non-fiction              | 📘 Fiction                      | 📖 Currently Reading     |
+|----------------------------|----------------------------------|--------------------------|
+| Deep Work                  | Dune                             | Vagabond (Manga)         |
+| Shoe Dog                  | The Cuckoo’s Calling             |                          |
+| The Subtle Art...         | The Kite Runner                  |                          |
+| Atomic Habits             | A Thousand Splendid Suns         |                          |
+| Everything is F*cked      | The Poppy War                    |                          |
+| Can’t Hurt Me             | Hitchhiker’s Guide to the Galaxy |                          |
+| The Courage to Be Disliked | War and Peace                   |                          |
+| Man’s Search for Meaning  |                                  |                          |
 
 ---
 
 ### 🐉 Favorite Anime: **Dragon Ball Z**
 
-> "Power comes in response to a need, not a desire. You have to create that need." — Goku  
-> "It's not about being better than someone else, it's about being better than you were the day before." — Goku  
-> "I am the hope of the universe." — Goku
+> _"Power comes in response to a need, not a desire. You have to create that need."_ — **Goku**  
+> _"It's not about being better than someone else, it's about being better than you were the day before."_  
+> _"I am the hope of the universe."_ 🌍
 
 <p align="center">
-  <img src="https://media.tenor.com/qP1zEDs3nU0AAAAC/super-saiyan-power-up.gif" alt="Goku Power Up" width="100%" />
+  <img src="https://media.tenor.com/qP1zEDs3nU0AAAAC/super-saiyan-power-up.gif" alt="Goku Power Up" width="600" />
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Let's Connect
+
 <p align="center">
   <a href="https://github.com/S11UB11AYAN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">⚡ Powered by Caffeine & Saiyan Energy ⚡</p>
+<p align="center">⚡ Fueled by Caffeine & Saiyan Energy ⚡</p>
