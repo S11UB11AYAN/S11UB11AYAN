@@ -1,142 +1,77 @@
-<h1 align="center">Hi, I'm Shubhayan Bagchi 👋</h1>
+<h1 align="center">Hey there 👋, I'm Shubhayan Bagchi</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FACC15&center=true&vCenter=true&width=500&lines=College+student+%7C+GATE+CSE+2026+aspirant+%7C+Web+Dev+Enthusiast+%7C+Linux+user+%7C+DBZ+Fanboy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=14F7FF&width=800&center=true&lines=College+CS+Student+%7C+GATE+2026+Aspirant;Anime+Fan+%7C+Loves+to+Code+%26+Read;MERN+Stack+Developer+%7C+Linux+Enthusiast;Currently+Building+Yoober+%26+Vagdevi" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+### 🔥 Currently on my desk
+- 💻 **Using**: `Linux Mint Cinnamon`, `VLC`, `VS Code`, `Neovim`, `Firefox (BetterFox)`, `Chrome`, `Postman`, `MongoDB Compass`, `Picard`
+- ⚙️ **Tinkered with**: Every major Linux distro! (Distro-hopper 🐧)
 
-- 🏫 Final year B.Tech CSE student  
-- ⚔️ Preparing for GATE CSE 2026  
-- 💻 I break and build things on the web (MERN stack, mostly)  
-- 📚 Books, anime, Linux, and all things nerdy  
-- 🔥 DBZ lover – spirit bomb-level enthusiasm for learning  
-- 🧠 Currently learning TypeScript & building projects
-
----
-
-## ⚡ Currently Using
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLC-orange?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" />
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-F26B3A?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Mint-informational?style=flat&logo=linuxmint&logoColor=white&color=2C2E3E" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Firefox-ff7139?style=flat&logo=firefox-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Languages I Use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+### 🧠 Languages I've worked with
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Tech Stack
+### 🚀 Tech Stack
+- **Frontend**: React, Tailwind, Framer Motion  
+- **Backend**: Node.js, Express, Flask  
+- **Database**: MongoDB  
+- **Auth**: JWT  
+- **Tools**: Postman, Compass, Git, VSCode  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-Projects built with MERN:
-- 🛺 **Yoober** – Uber clone  
-- ✅ **Strike Through** – A minimalist task app
+> ⚡ Used in: **Yoober** (Uber Clone) & **Strike Through** ✨
 
 ---
 
-## 📚 Books I've Read
-
-<details>
-  <summary>Click to expand</summary>
-  
-- Shoe Dog  
-- The Courage to Be Disliked  
-- War and Peace  
-- Deep Work  
-- The Subtle Art of Not Giving a F*ck  
-- Atomic Habits  
-- Man's Search for Meaning  
-- Everything is F*cked  
-- Dune  
-- Cuckoo’s Calling  
-- The Kite Runner  
-- A Thousand Splendid Suns  
-- The Poppy War  
-- Hitchhiker’s Guide to the Galaxy  
-- In Order to Live  
-- Mindset  
-- Can’t Hurt Me  
-- Bhagavad Gita  
-</details>
+### 📚 Books I’ve read
+| Non-fiction | Fiction | Currently Reading |
+|-------------|---------|-------------------|
+| Deep Work | Dune | Vagabond (Manga) |
+| Shoe Dog | Cuckoo’s Calling | |
+| Subtle Art... | Kite Runner | |
+| Atomic Habits | Thousand Splendid Suns | |
+| Everything is F*cked | Poppy War | |
+| Can't Hurt Me | Hitchhiker’s Guide... | |
+| The Courage to be Disliked | War & Peace | |
+| Man's Search for Meaning | | |
 
 ---
 
-## 📖 Currently Reading
+### 🐉 Favorite Anime: **Dragon Ball Z**
 
-> **Vagabond (Manga Series)**  
-*“Perceive that which cannot be seen with the eye.”*
-
----
-
-## 🔥 Dragon Ball Z Zone
-
-> _“Power comes in response to a need, not a desire. You have to create that need.”_ – Goku  
-> _“I do not fear this new challenge. Rather, like a true warrior, I will rise to meet it.”_ – Vegeta  
-> _“There's no such thing as fair or unfair in battle. There is only victory or in your case, defeat.”_ – Vegeta
+> "Power comes in response to a need, not a desire. You have to create that need." — Goku  
+> "It's not about being better than someone else, it's about being better than you were the day before." — Goku  
+> "I am the hope of the universe." — Goku
 
 <p align="center">
-  <img src="https://media.tenor.com/qnUoz3p8fLMAAAAC/super-saiyan-power-up.gif" width="80%" alt="Super Saiyan Power Up" />
+  <img src="https://media.tenor.com/qP1zEDs3nU0AAAAC/super-saiyan-power-up.gif" alt="Goku Power Up" width="100%" />
 </p>
 
 ---
 
-## 🐧 Distro Hopper
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-Arch-blue?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
+### 🤝 Let's Connect!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhayanbagchi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayanbagchi&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/S11UB11AYAN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ Fun Projects
-
-- 🌐 Portfolio in React + Tailwind + Framer Motion  
-- 🤖 AI Chatbot using Flask + Google Gemini  
-- 🚀 Yoober – MERN Uber clone
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/shubhayan-bagchi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shubhayanbagchi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<p align="center">⚡ Powered by Caffeine & Saiyan Energy ⚡</p>
