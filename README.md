@@ -43,15 +43,6 @@
 
 > 🛠️ Used in: **Yoober (Uber Clone)** and **Strike Through (Task App)**
 
----
-
-### 📌 Pinned Projects (suggest pinning these on your GitHub)
-
-- 🚕 **Yoober** – Full-stack ride-sharing clone  
-- ✅ **Strike Through** – Minimal productivity app  
-- 🤖 **Vagdevi** – AI Chatbot powered by Gemini + Flask  
-
----
 
 ### 📚 Books I've Read
 
