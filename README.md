@@ -13,22 +13,22 @@
 
 
 
-**Languages:** JavaScript, TypeScript, Java, SQL, C  
+Languages: JavaScript, TypeScript, Java, SQL, C  
 
 
-**Backend:** Node.js, Express.js, Flask (basics), FastAPI (basics), REST APIs, JWT & Cookie Auth, Zod  
+Backend: Node.js, Express.js, Flask (basics), FastAPI (basics), REST APIs, JWT & Cookie Auth, Zod  
 
 
-**Databases:** PostgreSQL, MySQL, MongoDB  
+Databases: PostgreSQL, MySQL, MongoDB  
 
 
-**ORM / Tools:** Prisma, Mongoose  
+ORM / Tools: Prisma, Mongoose  
 
 
-**Frontend:** React.js, Next.js, Tailwind CSS, Shadcn, Responsive Design  
+Frontend: React.js, Next.js, Tailwind CSS, Shadcn, Responsive Design  
 
 
-**State Management:** Recoil, Zustand
+State Management Recoil, Zustand
 
 
 
